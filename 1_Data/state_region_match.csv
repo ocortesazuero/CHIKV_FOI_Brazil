@@ -1,0 +1,28 @@
+"State","State_ascii","IBGE_code","ISO3_code","Region","Region_code_stan","State_code_stan"
+"Acre","Acre",12,"AC","North",2,1
+"Alagoas","Alagoas",27,"AL","Northeast",3,2
+"Amapá","Amapa",16,"AP","North",2,3
+"Amazonas","Amazonas",13,"AM","North",2,4
+"Bahia","Bahia",29,"BA","Northeast",3,5
+"Ceará","Ceara",23,"CE","Northeast",3,6
+"Distrito Federal","Distrito Federal",53,"DF","Central-West",1,7
+"Espírito Santo","Espirito Santo",32,"ES","Southeast",5,8
+"Goiás","Goias",52,"GO","Central-West",1,9
+"Maranhão","Maranhao",21,"MA","Northeast",3,10
+"Mato Grosso","Mato Grosso",51,"MT","Central-West",1,11
+"Mato Grosso do Sul","Mato Grosso do Sul",50,"MS","Central-West",1,12
+"Minas Gerais","Minas Gerais",31,"MG","Southeast",5,13
+"Pará","Para",15,"PA","North",2,14
+"Paraíba","Paraiba",25,"PB","Northeast",3,15
+"Paraná","Parana",41,"PR","South",4,16
+"Pernambuco","Pernambuco",26,"PE","Northeast",3,17
+"Piauí","Piaui",22,"PI","Northeast",3,18
+"Rio Grande do Norte","Rio Grande do Norte",24,"RN","Northeast",3,20
+"Rio Grande do Sul","Rio Grande do Sul",43,"RS","South",4,21
+"Rio de Janeiro","Rio de Janeiro",33,"RJ","Southeast",5,19
+"Rondônia","Rondonia",11,"RO","North",2,22
+"Roraima","Roraima",14,"RR","North",2,23
+"Santa Catarina","Santa Catarina",42,"SC","South",4,24
+"São Paulo","Sao Paulo",35,"SP","Southeast",5,25
+"Sergipe","Sergipe",28,"SE","Northeast",3,26
+"Tocantins","Tocantins",17,"TO","North",2,27

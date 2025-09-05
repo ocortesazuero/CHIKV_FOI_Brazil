@@ -1,0 +1,51 @@
+"type_sens","category_sens","case_sens","bound_sens","positive_sens","label_sens","x_axis_label"
+"Base case","Base case","Base case",NA,NA,NA,NA
+"Sensitivity","Vaccine","VE Infection - 0%","Lower",FALSE,"0%","Efficacy vs
+infection
+BC: 70%"
+"Sensitivity","Vaccine","VE Infection - 90%","Upper",TRUE,"90%","Efficacy vs
+infection
+BC: 70%"
+"Sensitivity","Vaccine","VE Disease - 70%","Lower",FALSE,"70%","Efficacy vs
+disease
+BC: 95%"
+"Sensitivity","Vaccine","VE Disease - 100%","Upper",TRUE,"100%","Efficacy vs
+disease
+BC: 95%"
+"Sensitivity","Vaccine","2 doses","Upper",FALSE,"2 doses","Number of doses
+BC: 1 dose"
+"Sensitivity","Vaccine","Waning - exponential - 3y","Lower",FALSE,"3y","Duration of 
+protection
+BC: Life-long"
+"Sensitivity","Campaign","Annual vaccination 12yos","Upper",TRUE,"With","Routine vacc. in 12yo
+BC: Without"
+"Sensitivity","Campaign","Target > 1yo","Lower",TRUE,">1yo","Target age
+BC: >12yo"
+"Sensitivity","Campaign","Target > 50yo","Upper",FALSE,">50yo","Target age
+BC: >12yo"
+"Sensitivity","Campaign","Coverage 10%","Lower",FALSE,"10%","Coverage
+BC: 40%"
+"Sensitivity","Campaign","Coverage 80%","Upper",TRUE,"80%","Coverage
+BC: 40%"
+"Sensitivity","Campaign","Top 5 states","Lower",FALSE,"Top 5 states","Target pop.
+BC: Brazil"
+"Sensitivity","Clinical chikungunya","Prob disease 20%","Lower",FALSE,"20%","Prob. disease
+BC: 50%"
+"Sensitivity","Clinical chikungunya","Prob disease 80%","Upper",TRUE,"80%","Prob. disease
+BC: 50%"
+"Sensitivity","Clinical chikungunya","Prob chronic disease 1%","Lower",FALSE,"1%","Prob. chronic
+disease
+BC: 2.4%"
+"Sensitivity","Clinical chikungunya","Prob chronic disease 4%","Upper",TRUE,"4%","Prob. chronic
+disease
+BC: 2.4%"
+"Sensitivity","Clinical chikungunya","Mean IFR 0.002%","Lower",FALSE,"0.002%","IFR
+BC: 0.004%"
+"Sensitivity","Clinical chikungunya","Mean IFR 0.008%","Upper",TRUE,"0.008%","IFR
+BC: 0.004%"
+"Sensitivity","Transmission dynamics","FOI -50%","Lower",FALSE,"-50%","Annual FOI"
+"Sensitivity","Transmission dynamics","FOI +50%","Upper",TRUE,"+50%","Annual FOI"
+"Sensitivity","Transmission dynamics","FOI sampled from 2015-2024","Lower",FALSE,"2015-2024","Representative period
+BC: 2020-2024"
+"Sensitivity","Campaign","Target 18-59yo","Upper",FALSE,"18-59yo","Target age
+BC: >12yo"
